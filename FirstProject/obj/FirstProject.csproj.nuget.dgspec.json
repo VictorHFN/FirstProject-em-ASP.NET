@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SRC\\FirstProject\\FirstProject\\FirstProject.csproj": {}
+    "C:\\Users\\Aluno\\Source\\Repos\\FirstProject-em-ASP.NET\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\SRC\\FirstProject\\FirstProject\\FirstProject.csproj": {
+    "C:\\Users\\Aluno\\Source\\Repos\\FirstProject-em-ASP.NET\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SRC\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Source\\Repos\\FirstProject-em-ASP.NET\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\SRC\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Source\\Repos\\FirstProject-em-ASP.NET\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\SRC\\FirstProject\\FirstProject\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Source\\Repos\\FirstProject-em-ASP.NET\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
